@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-groq
+groq
+PyPDF2
+faiss-cpu
+streamlit
+-e .
